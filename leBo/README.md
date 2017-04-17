@@ -1,4 +1,4 @@
-# ofo
+# leBo
 
 > A Vue.js project
 
